@@ -1,2 +1,2 @@
-# Data_Science_project1
-This project is studying the data life insurance claim ratio
+# phonepe transacional analysis
+AI-powered personal finance analysis app using PhonePe-style transaction data
