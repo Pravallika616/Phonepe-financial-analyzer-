@@ -1,1 +1,202 @@
+Date	Time	Transaction_ID	Type	Mode	Merchant	Category	Debit	Credit	Balance	Status
+01-08-2025	9:00 AM	TXN2000	Salary Credit	Bank	ABC Pvt Ltd	Salary	0	45000	45000	Success
+02-08-2025	10:00 AM	TXN2001	Payment	UPI	House Rent	Rent	15000	0	30000	Success
+03-08-2025	12:00 AM	TXN2002	Payment	UPI	Swiggy	Food	397	0	29603	Success
+03-08-2025	12:00 AM	TXN2003	Payment	UPI	Mutual Fund SIP	Investment	3000	0	26603	Success
+06-08-2025	12:00 AM	TXN2004	Payment	UPI	Zomato	Food	637	0	25966	Success
+06-08-2025	12:00 AM	TXN2005	Payment	UPI	Uber	Travel	556	0	25410	Success
+08-08-2025	12:00 AM	TXN2006	Payment	UPI	TNEB Electricity	Utilities	1529	0	23881	Success
+08-08-2025	12:00 AM	TXN2007	Payment	UPI	Mutual Fund SIP	Investment	3000	0	20881	Success
+11-08-2025	12:00 AM	TXN2008	Payment	UPI	Reliance Fresh	Groceries	1506	0	19375	Success
+11-08-2025	12:00 AM	TXN2009	Payment	UPI	Reliance Fresh	Groceries	2727	0	16648	Success
+12-08-2025	12:00 AM	TXN2010	Payment	UPI	Reliance Fresh	Groceries	3772	0	12876	Success
+13-08-2025	12:00 AM	TXN2011	Payment	UPI	Netflix	Entertainment	341	0	12535	Success
+13-08-2025	12:00 AM	TXN2012	Payment	UPI	Jio	Mobile Recharge	199	0	12336	Success
+14-08-2025	12:00 AM	TXN2013	Payment	UPI	Ola	Travel	224	0	12112	Success
+16-08-2025	12:00 AM	TXN2014	Payment	UPI	Netflix	Entertainment	552	0	11560	Success
+17-08-2025	12:00 AM	TXN2015	Payment	UPI	Amazon	Shopping	5077	0	6483	Success
+18-08-2025	12:00 AM	TXN2016	Payment	UPI	Airtel	Mobile Recharge	199	0	6284	Success
+19-08-2025	12:00 AM	TXN2017	Payment	UPI	Airtel	Mobile Recharge	199	0	6085	Success
+20-08-2025	12:00 AM	TXN2018	Payment	UPI	Uber	Travel	430	0	5655	Success
+20-08-2025	12:00 AM	TXN2019	Payment	UPI	BookMyShow	Entertainment	638	0	5017	Success
+22-08-2025	12:00 AM	TXN2020	Payment	UPI	Amazon	Shopping	4507	0	510	Success
+23-08-2025	12:00 AM	TXN2021	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-2490	Success
+23-08-2025	12:00 AM	TXN2022	Payment	UPI	Amazon	Shopping	1530	0	-4020	Success
+24-08-2025	12:00 AM	TXN2023	Payment	UPI	Zomato	Food	753	0	-4773	Success
+24-08-2025	12:00 AM	TXN2024	Payment	UPI	Swiggy	Food	363	0	-5136	Success
+26-08-2025	12:00 AM	TXN2025	Payment	UPI	Amazon	Shopping	4102	0	-9238	Success
+26-08-2025	12:00 AM	TXN2026	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-12238	Success
+27-08-2025	12:00 AM	TXN2027	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-15238	Success
+27-08-2025	12:00 AM	TXN2028	Payment	UPI	Jio	Mobile Recharge	239	0	-15477	Success
+29-08-2025	12:00 AM	TXN2029	Payment	UPI	Water Bill	Utilities	1344	0	-16821	Success
+29-08-2025	12:00 AM	TXN2030	Payment	UPI	Airtel	Mobile Recharge	199	0	-17020	Success
+01-09-2025	9:00 AM	TXN2031	Salary Credit	Bank	ABC Pvt Ltd	Salary	0	45000	27980	Success
+02-09-2025	10:00 AM	TXN2032	Payment	UPI	House Rent	Rent	15000	0	12980	Success
+01-09-2025	12:00 AM	TXN2033	Payment	UPI	Mutual Fund SIP	Investment	3000	0	9980	Success
+02-09-2025	12:00 AM	TXN2034	Payment	UPI	Mutual Fund SIP	Investment	3000	0	6980	Success
+03-09-2025	12:00 AM	TXN2035	Payment	UPI	Swiggy	Food	321	0	6659	Success
+03-09-2025	12:00 AM	TXN2036	Payment	UPI	Zomato	Food	697	0	5962	Success
+04-09-2025	12:00 AM	TXN2037	Payment	UPI	Swiggy	Food	514	0	5448	Success
+04-09-2025	12:00 AM	TXN2038	Payment	UPI	Mutual Fund SIP	Investment	3000	0	2448	Success
+05-09-2025	12:00 AM	TXN2039	Payment	UPI	BigBasket	Groceries	1682	0	766	Success
+06-09-2025	12:00 AM	TXN2040	Payment	UPI	TNEB Electricity	Utilities	1171	0	-405	Success
+06-09-2025	12:00 AM	TXN2041	Payment	UPI	Uber	Travel	552	0	-957	Success
+08-09-2025	12:00 AM	TXN2042	Payment	UPI	Swiggy	Food	352	0	-1309	Success
+10-09-2025	12:00 AM	TXN2043	Payment	UPI	TNEB Electricity	Utilities	1418	0	-2727	Success
+10-09-2025	12:00 AM	TXN2044	Payment	UPI	Netflix	Entertainment	1003	0	-3730	Success
+13-09-2025	12:00 AM	TXN2045	Payment	UPI	Zomato	Food	387	0	-4117	Success
+15-09-2025	12:00 AM	TXN2046	Payment	UPI	TNEB Electricity	Utilities	1291	0	-5408	Success
+20-09-2025	12:00 AM	TXN2047	Payment	UPI	Zomato	Food	612	0	-6020	Success
+21-09-2025	12:00 AM	TXN2048	Payment	UPI	Water Bill	Utilities	1480	0	-7500	Success
+21-09-2025	12:00 AM	TXN2049	Payment	UPI	Airtel	Mobile Recharge	239	0	-7739	Success
+23-09-2025	12:00 AM	TXN2050	Payment	UPI	Zomato	Food	352	0	-7739	Failed
+23-09-2025	12:00 AM	TXN2051	Payment	UPI	Ola	Travel	204	0	-7943	Success
+24-09-2025	12:00 AM	TXN2052	Payment	UPI	Airtel	Mobile Recharge	199	0	-8142	Success
+24-09-2025	12:00 AM	TXN2053	Payment	UPI	TNEB Electricity	Utilities	1831	0	-9973	Success
+25-09-2025	12:00 AM	TXN2054	Payment	UPI	Zomato	Food	387	0	-10360	Success
+28-09-2025	12:00 AM	TXN2055	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-13360	Success
+28-09-2025	12:00 AM	TXN2056	Payment	UPI	Myntra	Shopping	2429	0	-15789	Success
+29-09-2025	12:00 AM	TXN2057	Payment	UPI	BookMyShow	Entertainment	457	0	-16246	Success
+30-09-2025	12:00 AM	TXN2058	Payment	UPI	Myntra	Shopping	2795	0	-19041	Success
+30-09-2025	12:00 AM	TXN2059	Payment	UPI	Flipkart	Shopping	2965	0	-22006	Success
+01-10-2025	9:00 AM	TXN2060	Salary Credit	Bank	ABC Pvt Ltd	Salary	0	45000	22994	Success
+02-10-2025	10:00 AM	TXN2061	Payment	UPI	House Rent	Rent	15000	0	7994	Success
+02-10-2025	12:00 AM	TXN2062	Payment	UPI	Netflix	Entertainment	953	0	7041	Success
+03-10-2025	12:00 AM	TXN2063	Payment	UPI	Amazon	Shopping	5514	0	1527	Success
+04-10-2025	12:00 AM	TXN2064	Payment	UPI	Netflix	Entertainment	1307	0	1527	Failed
+04-10-2025	12:00 AM	TXN2065	Payment	UPI	BookMyShow	Entertainment	945	0	1527	Failed
+06-10-2025	12:00 AM	TXN2066	Payment	UPI	Ola	Travel	476	0	1051	Success
+06-10-2025	12:00 AM	TXN2067	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-1949	Success
+07-10-2025	12:00 AM	TXN2068	Payment	UPI	Uber	Travel	566	0	-2515	Success
+07-10-2025	12:00 AM	TXN2069	Payment	UPI	Uber	Travel	333	0	-2848	Success
+08-10-2025	12:00 AM	TXN2070	Payment	UPI	Ola	Travel	203	0	-3051	Success
+08-10-2025	12:00 AM	TXN2071	Payment	UPI	BookMyShow	Entertainment	862	0	-3913	Success
+09-10-2025	12:00 AM	TXN2072	Payment	UPI	BigBasket	Groceries	3845	0	-7758	Success
+09-10-2025	12:00 AM	TXN2073	Payment	UPI	Jio	Mobile Recharge	199	0	-7957	Success
+10-10-2025	12:00 AM	TXN2074	Payment	UPI	Jio	Mobile Recharge	239	0	-8196	Success
+11-10-2025	12:00 AM	TXN2075	Payment	UPI	DMart	Groceries	3209	0	-11405	Success
+11-10-2025	12:00 AM	TXN2076	Payment	UPI	Zomato	Food	404	0	-11809	Success
+13-10-2025	12:00 AM	TXN2077	Payment	UPI	Uber	Travel	536	0	-12345	Success
+16-10-2025	12:00 AM	TXN2078	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-15345	Success
+17-10-2025	12:00 AM	TXN2079	Payment	UPI	Jio	Mobile Recharge	239	0	-15584	Success
+17-10-2025	12:00 AM	TXN2080	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-18584	Success
+20-10-2025	12:00 AM	TXN2081	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-21584	Success
+20-10-2025	12:00 AM	TXN2082	Payment	UPI	Uber	Travel	538	0	-22122	Success
+23-10-2025	12:00 AM	TXN2083	Payment	UPI	Jio	Mobile Recharge	199	0	-22321	Success
+24-10-2025	12:00 AM	TXN2084	Payment	UPI	Jio	Mobile Recharge	199	0	-22520	Success
+24-10-2025	12:00 AM	TXN2085	Payment	UPI	Netflix	Entertainment	1134	0	-23654	Success
+25-10-2025	12:00 AM	TXN2086	Payment	UPI	Amazon	Shopping	1850	0	-25504	Success
+25-10-2025	12:00 AM	TXN2087	Payment	UPI	Uber	Travel	359	0	-25863	Success
+26-10-2025	12:00 AM	TXN2088	Payment	UPI	TNEB Electricity	Utilities	1268	0	-27131	Success
+26-10-2025	12:00 AM	TXN2089	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-30131	Success
+28-10-2025	12:00 AM	TXN2090	Payment	UPI	Swiggy	Food	457	0	-30588	Success
+28-10-2025	12:00 AM	TXN2091	Payment	UPI	Water Bill	Utilities	1020	0	-31608	Success
+30-10-2025	12:00 AM	TXN2092	Payment	UPI	Flipkart	Shopping	5430	0	-37038	Success
+30-10-2025	12:00 AM	TXN2093	Payment	UPI	Water Bill	Utilities	1079	0	-38117	Success
+31-10-2025	12:00 AM	TXN2094	Payment	UPI	Ola	Travel	365	0	-38482	Success
+31-10-2025	12:00 AM	TXN2095	Payment	UPI	Myntra	Shopping	4681	0	-43163	Success
+01-11-2025	9:00 AM	TXN2096	Salary Credit	Bank	ABC Pvt Ltd	Salary	0	45000	1837	Success
+02-11-2025	10:00 AM	TXN2097	Payment	UPI	House Rent	Rent	15000	0	-13163	Success
+02-11-2025	12:00 AM	TXN2098	Payment	UPI	Airtel	Mobile Recharge	299	0	-13462	Success
+02-11-2025	12:00 AM	TXN2099	Payment	UPI	DMart	Groceries	3798	0	-17260	Success
+03-11-2025	12:00 AM	TXN2100	Payment	UPI	Swiggy	Food	726	0	-17986	Success
+05-11-2025	12:00 AM	TXN2101	Payment	UPI	Swiggy	Food	624	0	-18610	Success
+06-11-2025	12:00 AM	TXN2102	Payment	UPI	Airtel	Mobile Recharge	299	0	-18909	Success
+06-11-2025	12:00 AM	TXN2103	Payment	UPI	Uber	Travel	585	0	-19494	Success
+09-11-2025	12:00 AM	TXN2104	Payment	UPI	Myntra	Shopping	1698	0	-21192	Success
+10-11-2025	12:00 AM	TXN2105	Payment	UPI	Uber	Travel	258	0	-21450	Success
+10-11-2025	12:00 AM	TXN2106	Payment	UPI	Jio	Mobile Recharge	299	0	-21749	Success
+11-11-2025	12:00 AM	TXN2107	Payment	UPI	Reliance Fresh	Groceries	1749	0	-23498	Success
+13-11-2025	12:00 AM	TXN2108	Payment	UPI	TNEB Electricity	Utilities	1648	0	-25146	Success
+15-11-2025	12:00 AM	TXN2109	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-28146	Success
+18-11-2025	12:00 AM	TXN2110	Payment	UPI	Uber	Travel	449	0	-28595	Success
+20-11-2025	12:00 AM	TXN2111	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-31595	Success
+20-11-2025	12:00 AM	TXN2112	Payment	UPI	Zomato	Food	709	0	-32304	Success
+21-11-2025	12:00 AM	TXN2113	Payment	UPI	Jio	Mobile Recharge	199	0	-32503	Success
+22-11-2025	12:00 AM	TXN2114	Payment	UPI	Airtel	Mobile Recharge	299	0	-32802	Success
+22-11-2025	12:00 AM	TXN2115	Payment	UPI	Ola	Travel	339	0	-33141	Success
+24-11-2025	12:00 AM	TXN2116	Payment	UPI	Reliance Fresh	Groceries	1707	0	-34848	Success
+25-11-2025	12:00 AM	TXN2117	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-37848	Success
+25-11-2025	12:00 AM	TXN2118	Payment	UPI	BigBasket	Groceries	2144	0	-39992	Success
+26-11-2025	12:00 AM	TXN2119	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-42992	Success
+27-11-2025	12:00 AM	TXN2120	Payment	UPI	Jio	Mobile Recharge	239	0	-43231	Success
+27-11-2025	12:00 AM	TXN2121	Payment	UPI	DMart	Groceries	2269	0	-45500	Success
+28-11-2025	12:00 AM	TXN2122	Payment	UPI	Swiggy	Food	791	0	-45500	Failed
+28-11-2025	12:00 AM	TXN2123	Payment	UPI	Airtel	Mobile Recharge	199	0	-45699	Success
+29-11-2025	12:00 AM	TXN2124	Payment	UPI	Reliance Fresh	Groceries	2066	0	-47765	Success
+29-11-2025	12:00 AM	TXN2125	Payment	UPI	Water Bill	Utilities	1489	0	-49254	Success
+30-11-2025	12:00 AM	TXN2126	Payment	UPI	Myntra	Shopping	2201	0	-51455	Success
+30-11-2025	12:00 AM	TXN2127	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-54455	Success
+01-12-2025	9:00 AM	TXN2128	Salary Credit	Bank	ABC Pvt Ltd	Salary	0	45000	-9455	Success
+02-12-2025	10:00 AM	TXN2129	Payment	UPI	House Rent	Rent	15000	0	-24455	Success
+01-12-2025	12:00 AM	TXN2130	Payment	UPI	Uber	Travel	484	0	-24939	Success
+01-12-2025	12:00 AM	TXN2131	Payment	UPI	Uber	Travel	288	0	-25227	Success
+02-12-2025	12:00 AM	TXN2132	Payment	UPI	Netflix	Entertainment	1117	0	-26344	Success
+03-12-2025	12:00 AM	TXN2133	Payment	UPI	Netflix	Entertainment	782	0	-27126	Success
+04-12-2025	12:00 AM	TXN2134	Payment	UPI	Swiggy	Food	358	0	-27126	Failed
+06-12-2025	12:00 AM	TXN2135	Payment	UPI	Amazon	Shopping	1148	0	-28274	Success
+07-12-2025	12:00 AM	TXN2136	Payment	UPI	Airtel	Mobile Recharge	239	0	-28513	Success
+08-12-2025	12:00 AM	TXN2137	Payment	UPI	Zomato	Food	530	0	-29043	Success
+08-12-2025	12:00 AM	TXN2138	Payment	UPI	BookMyShow	Entertainment	1453	0	-30496	Success
+09-12-2025	12:00 AM	TXN2139	Payment	UPI	Airtel	Mobile Recharge	199	0	-30695	Success
+09-12-2025	12:00 AM	TXN2140	Payment	UPI	BookMyShow	Entertainment	965	0	-31660	Success
+10-12-2025	12:00 AM	TXN2141	Payment	UPI	BigBasket	Groceries	1927	0	-33587	Success
+10-12-2025	12:00 AM	TXN2142	Payment	UPI	Airtel	Mobile Recharge	299	0	-33886	Success
+13-12-2025	12:00 AM	TXN2143	Payment	UPI	Airtel	Mobile Recharge	239	0	-34125	Success
+13-12-2025	12:00 AM	TXN2144	Payment	UPI	TNEB Electricity	Utilities	1296	0	-35421	Success
+14-12-2025	12:00 AM	TXN2145	Payment	UPI	Airtel	Mobile Recharge	199	0	-35620	Success
+15-12-2025	12:00 AM	TXN2146	Payment	UPI	Flipkart	Shopping	3308	0	-38928	Success
+17-12-2025	12:00 AM	TXN2147	Payment	UPI	Jio	Mobile Recharge	239	0	-39167	Success
+18-12-2025	12:00 AM	TXN2148	Payment	UPI	BookMyShow	Entertainment	646	0	-39813	Success
+19-12-2025	12:00 AM	TXN2149	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-42813	Success
+20-12-2025	12:00 AM	TXN2150	Payment	UPI	Flipkart	Shopping	1030	0	-43843	Success
+20-12-2025	12:00 AM	TXN2151	Payment	UPI	BookMyShow	Entertainment	1375	0	-45218	Success
+22-12-2025	12:00 AM	TXN2152	Payment	UPI	Amazon	Shopping	2902	0	-48120	Success
+22-12-2025	12:00 AM	TXN2153	Payment	UPI	Airtel	Mobile Recharge	299	0	-48419	Success
+23-12-2025	12:00 AM	TXN2154	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-51419	Success
+23-12-2025	12:00 AM	TXN2155	Payment	UPI	DMart	Groceries	2125	0	-53544	Success
+24-12-2025	12:00 AM	TXN2156	Payment	UPI	Reliance Fresh	Groceries	2760	0	-56304	Success
+24-12-2025	12:00 AM	TXN2157	Payment	UPI	Zomato	Food	626	0	-56930	Success
+25-12-2025	12:00 AM	TXN2158	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-59930	Success
+25-12-2025	12:00 AM	TXN2159	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-62930	Success
+27-12-2025	12:00 AM	TXN2160	Payment	UPI	TNEB Electricity	Utilities	1119	0	-64049	Success
+28-12-2025	12:00 AM	TXN2161	Payment	UPI	Uber	Travel	278	0	-64327	Success
+28-12-2025	12:00 AM	TXN2162	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-67327	Success
+29-12-2025	12:00 AM	TXN2163	Payment	UPI	Jio	Mobile Recharge	299	0	-67626	Success
+29-12-2025	12:00 AM	TXN2164	Payment	UPI	Uber	Travel	412	0	-68038	Success
+30-12-2025	12:00 AM	TXN2165	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-71038	Success
+30-12-2025	12:00 AM	TXN2166	Payment	UPI	TNEB Electricity	Utilities	1942	0	-72980	Success
+01-01-2026	9:00 AM	TXN2167	Salary Credit	Bank	ABC Pvt Ltd	Salary	0	45000	-27980	Success
+02-01-2026	10:00 AM	TXN2168	Payment	UPI	House Rent	Rent	15000	0	-42980	Success
+01-01-2026	12:00 AM	TXN2169	Payment	UPI	BookMyShow	Entertainment	1194	0	-44174	Success
+01-01-2026	12:00 AM	TXN2170	Payment	UPI	TNEB Electricity	Utilities	1727	0	-45901	Success
+02-01-2026	12:00 AM	TXN2171	Payment	UPI	Myntra	Shopping	1621	0	-47522	Success
+02-01-2026	12:00 AM	TXN2172	Payment	UPI	Zomato	Food	432	0	-47954	Success
+03-01-2026	12:00 AM	TXN2173	Payment	UPI	Jio	Mobile Recharge	239	0	-48193	Success
+03-01-2026	12:00 AM	TXN2174	Payment	UPI	DMart	Groceries	2784	0	-50977	Success
+04-01-2026	12:00 AM	TXN2175	Payment	UPI	Myntra	Shopping	4479	0	-55456	Success
+05-01-2026	12:00 AM	TXN2176	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-58456	Success
+06-01-2026	12:00 AM	TXN2177	Payment	UPI	Netflix	Entertainment	704	0	-59160	Success
+06-01-2026	12:00 AM	TXN2178	Payment	UPI	Uber	Travel	323	0	-59483	Success
+07-01-2026	12:00 AM	TXN2179	Payment	UPI	Swiggy	Food	706	0	-59483	Failed
+07-01-2026	12:00 AM	TXN2180	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-62483	Success
+08-01-2026	12:00 AM	TXN2181	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-65483	Success
+09-01-2026	12:00 AM	TXN2182	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-68483	Success
+11-01-2026	12:00 AM	TXN2183	Payment	UPI	Myntra	Shopping	2872	0	-71355	Success
+11-01-2026	12:00 AM	TXN2184	Payment	UPI	Reliance Fresh	Groceries	2680	0	-74035	Success
+12-01-2026	12:00 AM	TXN2185	Payment	UPI	Mutual Fund SIP	Investment	3000	0	-77035	Success
+13-01-2026	12:00 AM	TXN2186	Payment	UPI	Myntra	Shopping	3901	0	-80936	Success
+14-01-2026	12:00 AM	TXN2187	Payment	UPI	Swiggy	Food	348	0	-81284	Success
+15-01-2026	12:00 AM	TXN2188	Payment	UPI	Ola	Travel	471	0	-81755	Success
+15-01-2026	12:00 AM	TXN2189	Payment	UPI	Water Bill	Utilities	1262	0	-83017	Success
+16-01-2026	12:00 AM	TXN2190	Payment	UPI	Netflix	Entertainment	837	0	-83854	Success
+16-01-2026	12:00 AM	TXN2191	Payment	UPI	BookMyShow	Entertainment	966	0	-84820	Success
+17-01-2026	12:00 AM	TXN2192	Payment	UPI	Jio	Mobile Recharge	239	0	-85059	Success
+19-01-2026	12:00 AM	TXN2193	Payment	UPI	Uber	Travel	422	0	-85481	Success
+21-01-2026	12:00 AM	TXN2194	Payment	UPI	Jio	Mobile Recharge	299	0	-85780	Success
+22-01-2026	12:00 AM	TXN2195	Payment	UPI	Jio	Mobile Recharge	299	0	-86079	Success
+22-01-2026	12:00 AM	TXN2196	Payment	UPI	Ola	Travel	374	0	-86453	Success
+23-01-2026	12:00 AM	TXN2197	Payment	UPI	BigBasket	Groceries	3704	0	-90157	Success
+23-01-2026	12:00 AM	TXN2198	Payment	UPI	Water Bill	Utilities	1326	0	-91483	Success
+24-01-2026	12:00 AM	TXN2199	Payment	UPI	Uber	Travel	449	0	-91932	Success
 
