@@ -1,3 +1,9 @@
+
 import pandas as pd
 
-df = pd.read_csv("sample_ransaction.csv")
+def main():
+    df = pd.read_csv("data/sample_transaction.csv")
+    print(df.head())
+
+if __name__ == "__main__":
+    main()
