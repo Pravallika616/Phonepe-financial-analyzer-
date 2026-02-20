@@ -2,9 +2,9 @@
 import pandas as pd
 
 def main():
-    df = pd.read_csv("data/sample_transaction.csv")
+    df = pd.read_csv("data/sample_transaction.csv",sep="\t" )
     print(df.head())
-    print(df.info())
+    print(df.dtypes)
 
 if __name__ == "__main__":
     main()
