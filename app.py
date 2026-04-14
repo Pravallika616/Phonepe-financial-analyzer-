@@ -6,6 +6,7 @@ import plotly.graph_objects as go
 from src.preprocessing import load_and_clean_data
 from src.analysis import generate_monthly_summary, category_expense
 from src.report import savings_rate
+from src.preprocessing import convert_phonepe_pdf_to_df
 
 st.set_page_config(page_title="AI Personal Finance Analyzer", layout="wide")
 
@@ -13,11 +14,24 @@ st.title("💰 AI-Powered Personal Finance Analyzer")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload your transaction CSV file", type=["csv"])
+uploaded_file = st.file_uploader("Upload File", type=["csv", "pdf"])
 
 if uploaded_file:
 
+    if uploaded_file.name.endswith(".pdf"):
+        with open("temp.pdf", "wb") as f:
+            f.write(uploaded_file.read())
+
+        df = convert_phonepe_pdf_to_df("temp.pdf")
+
+    else:
+        df = load_and_clean_data(uploaded_file)
+
+    st.write(df.head())
+
+
     # Load data
-    df = load_and_clean_data(uploaded_file)
+    #df = load_and_clean_data(uploaded_file)
 
     # Generate analysis
     monthly_summary = generate_monthly_summary(df)
